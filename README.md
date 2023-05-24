@@ -18,8 +18,7 @@
 
 In the field of education, machine learning is applied for personalized learning, intelligent tutoring systems, learning analytics, automated grading, and predictive analytics. These applications aim to provide tailored learning experiences, offer real-time assistance, analyze educational data, automate grading processes, and predict student outcomes.
 
-In research, machine learning finds applications in data analysis, natural language processing, image and video analysis, and recommender systems. These applications help researchers analyze large datasets, process text and visual data, and receive persona![download](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/cf22be4c-f2b0-4e6f-88c0-a38fa645eecc)
-lized recommendations for relevant research resources.
+In research, machine learning finds applications in data analysis, natural language processing, image and video analysis, and recommender systems. These applications help researchers analyze large datasets, process text and visual data, and receive personalized recommendations for relevant research resources.
 
 <br>
 
