@@ -1,6 +1,8 @@
 # Education-and-Research-Projects-on-Machine-Learning-and-data-science
 
 # Education and Research-Real-World-Projects-Machine-learning-Data-Science
+<p>Machine learning in education and research refers to the application of machine learning techniques and algorithms to improve teaching, learning, and research processes in the field of education. It involves leveraging data-driven approaches to analyze educational data, develop predictive models, and provide personalized learning experiences.</p>
+
 
 ![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/a4ec0b3b-cbd4-43d7-ab77-2f6bae66bf26)
 ![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/f3b16687-607c-4eef-b044-23219f4ff16a)
