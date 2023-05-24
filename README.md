@@ -13,7 +13,7 @@
 
 <h3>School</h3>
 
-![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/bf43bf7f-8468-4f36-8667-deb97112fb54)
+![R](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/0114c35a-5458-4012-9199-9754e58cfcbd)
 
 1. [Credit Approval](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - A system for credit card approva<br/>
 2. [Loan Acceptance ](https://github.com/mohansharma077/Loan-Acceptance) -  Classification and time-series analysis for loan acceptance.<br/>
