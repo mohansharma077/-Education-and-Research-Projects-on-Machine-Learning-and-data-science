@@ -43,7 +43,7 @@ In research, machine learning finds applications in data analysis, natural langu
 
 
 
-<h3>Management and Operation</h3>
+<h3>Student</h3>
 
 ![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/6f809fc6-72f5-4e39-9f46-4340a0deb33c)
 
