@@ -4,7 +4,7 @@
 
 ![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/a4ec0b3b-cbd4-43d7-ab77-2f6bae66bf26)
 ![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/f3b16687-607c-4eef-b044-23219f4ff16a)
-
+![depositphotos_119237446-stock-photo-education-and-research-concept](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/f653572a-0eb6-415b-add8-41450f330b3b)
 ![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/d85bf6b3-31dd-4db7-a660-6fefd1806c96)
 
 
