@@ -1,9 +1,10 @@
 # Education-and-Research-Projects-on-Machine-Learning-and-data-science
 
 # Education and Research-Real-World-Projects-Machine-learning-Data-Science
-![Banking   Insurance](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/1ed273ad-3db5-4c47-ac98-4d5f16195d86)
-![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/d8671df0-41da-4614-b6e2-d753a335908d)
-![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/b414d562-eec0-436c-acd2-dcc11474423f)
+
+![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/a4ec0b3b-cbd4-43d7-ab77-2f6bae66bf26)
+
+![OIP](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/d85bf6b3-31dd-4db7-a660-6fefd1806c96)
 
 
 
