@@ -9,9 +9,9 @@
 
 
 
-<h2>Banking & Insurance</h2>
+<h2>Education and Research</h2>
 
-<h3>Consumer Finance</h3>
+<h3>School</h3>
 
 ![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/bf43bf7f-8468-4f36-8667-deb97112fb54)
 
