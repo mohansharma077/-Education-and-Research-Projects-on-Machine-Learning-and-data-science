@@ -18,7 +18,8 @@
 
 In the field of education, machine learning is applied for personalized learning, intelligent tutoring systems, learning analytics, automated grading, and predictive analytics. These applications aim to provide tailored learning experiences, offer real-time assistance, analyze educational data, automate grading processes, and predict student outcomes.
 
-In research, machine learning finds applications in data analysis, natural language processing, image and video analysis, and recommender systems. These applications help researchers analyze large datasets, process text and visual data, and receive personalized recommendations for relevant research resources.
+In research, machine learning finds applications in data analysis, natural language processing, image and video analysis, and recommender systems. These applications help researchers analyze large datasets, process text and visual data, and receive persona![download](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/cf22be4c-f2b0-4e6f-88c0-a38fa645eecc)
+lized recommendations for relevant research resources.
 
 <br>
 
@@ -45,31 +46,12 @@ In research, machine learning finds applications in data analysis, natural langu
 
 <h3>Student</h3>
 
-![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/6f809fc6-72f5-4e39-9f46-4340a0deb33c)
+![download](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/b3f6a2e8-6e81-4fc3-8628-0caee472b4e6)
+
+
 
 1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
 2. [Survival Analysis](https://github.com/mohansharma077/Survival-Analysis-of-Customers) - Survival Analysis - Perform a survival analysis of customers<br/>
 3. [Next Transaction ](https://github.com/mohansharma077/Customer-Next-Transaction-Prediction/) - Deep learning model to predict the transaction amount and days to next transaction<br/>
 
 
-<h3>Fraud</h3>
-
-![OIP](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/5608da9f-3788-4b1b-9346-69cea6d83bb8)
-
-
-1. [Credit Card Fraud Detection](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - Credit card fraud detection<br/>
-2. [Bank Note Fraud Detection](https://github.com/mohansharma077/Bank-Note-Fraud-Detection-using-Random-Forest-Classifier) -  Bank Note Authentication Using RandomForest<br/>
-
-
-<h3>Insurance and Risk</h3>
-
-![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/e0755a7a-6ab8-43d6-9ebc-7ee74a54a3c2)
-
-1. [Bank failure Prediction](https://github.com/mohansharma077/Bank-Failure-Prediction/tree/main) - Bank Failure Prediction<br/>
-
-
-<h3>Valuation</h3>
-
-![download](https://github.com/mohansharma077/Banking-and-Insurance-Real-World-Projects/assets/104629829/4f16fa87-a943-4ad5-8aa9-5684c97c29b6)
-
-1. [Used Car Price Prediction](https://github.com/mohansharma077/Used-Car-Price-prediction-/tree/main) - Used Car Price Prediction 
