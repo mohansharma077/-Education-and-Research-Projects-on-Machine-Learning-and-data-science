@@ -37,7 +37,7 @@ In research, machine learning finds applications in data analysis, natural langu
 
 ![R](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/0114c35a-5458-4012-9199-9754e58cfcbd)
 
-1. [Credit Approval](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - A system for credit card approva<br/>
+1. [Student Performance/ Grade Analysis](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A system for student performance and grade analysis <br/>
 2. [Loan Acceptance ](https://github.com/mohansharma077/Loan-Acceptance) -  Classification and time-series analysis for loan acceptance.<br/>
 
 
