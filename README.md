@@ -38,18 +38,3 @@ In research, machine learning finds applications in data analysis, natural langu
 ![R](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/0114c35a-5458-4012-9199-9754e58cfcbd)
 
 1. [Student Performance/ Grade Analysis](https://github.com/mohansharma077/Student-Performance-Grade-Analysis-and-Prediction-) - A system for student performance and grade analysis <br/>
-2. [Loan Acceptance ](https://github.com/mohansharma077/Loan-Acceptance) -  Classification and time-series analysis for loan acceptance.<br/>
-
-
-
-<h3>Student</h3>
-
-![download](https://github.com/mohansharma077/-Education-and-Research-Projects-on-Machine-Learning-and-data-science/assets/104629829/b3f6a2e8-6e81-4fc3-8628-0caee472b4e6)
-
-
-
-1. [CEO-Analysis of CEO compensation.](https://github.com/mohansharma077/-Fraud-Detection-On-Credit-Card-Transactions) - CEO - Analysis of CEO compensation.<br/>
-2. [Survival Analysis](https://github.com/mohansharma077/Survival-Analysis-of-Customers) - Survival Analysis - Perform a survival analysis of customers<br/>
-3. [Next Transaction ](https://github.com/mohansharma077/Customer-Next-Transaction-Prediction/) - Deep learning model to predict the transaction amount and days to next transaction<br/>
-
-
